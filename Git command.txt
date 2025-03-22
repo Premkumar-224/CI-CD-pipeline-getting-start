@@ -1,0 +1,9 @@
+git clone
+
+git branch
+
+git add .
+
+git status
+
+git commit origin main
